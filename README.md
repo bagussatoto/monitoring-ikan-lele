@@ -15,6 +15,12 @@ Sistem monitoring kualitas air untuk budidaya lele yang menggunakan Internet of 
 | Jurusan        | S1 - Informatika                 |
 | Kampus         | Universitas Amikom Yogyakarta    |
 
+# Login 
+User : bagussatoto
+Password : 12345 
+
+Atau klik [Disini](https://github.com/bagussatoto/monitoring-ikan-lele/commit/bbca23f459f992d34f4d54e5b49dfbb17d2390ac#r135821760)
+
 
 ## Tampilan Website
 ![home](https://github.com/bagussatoto/monitoring-web/assets/87259393/710b5bbe-5c49-4508-9a15-0b4288937fbd)
