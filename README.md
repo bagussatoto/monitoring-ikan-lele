@@ -37,9 +37,9 @@ Sistem monitoring kualitas air untuk budidaya lele yang menggunakan Internet of 
 -   Fork Repo Github Saya
 -   Clone project repo saya dengan cara menuliskan pada terminal/cmd/git bash :<br> <b>git clone</b>
 ``````
-git clone https://github.com/bagussatoto/monitoring-web.git
+git clone https://github.com/bagussatoto/monitoring-ikan-lele.git
 `````` 
--   lalu masuk ke direktori repo yg sudah di clone dengan ketik lg pada terminal/cmd/git bash <b>cd menitorng-web</b>
+-   lalu masuk ke direktori repo yg sudah di clone dengan ketik lg pada terminal/cmd/git bash <b>cd monitoring-ikan-lele</b>
 -   lalu ketik <b>composser install </b> dan <b>php artisan key generate</b>
 -   tulis migrate database pada terminal/cmd/git bash : <b>php artisan migrate:install</b>
 -   jalankan php artisan db:seed pada terminal/cmd/git bash : <b>php artisan db:seed</b>
