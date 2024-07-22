@@ -1052,26 +1052,26 @@
         },
         {
             "name": "irazasyed/telegram-bot-sdk",
-            "version": "v3.13.0",
+            "version": "v3.14.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/irazasyed/telegram-bot-sdk.git",
-                "reference": "31a71aef80fd328bfe0084738cc3b51cc49867f4"
+                "reference": "c72ef585556578105c4d5cc56324575ef3677fd2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/irazasyed/telegram-bot-sdk/zipball/31a71aef80fd328bfe0084738cc3b51cc49867f4",
-                "reference": "31a71aef80fd328bfe0084738cc3b51cc49867f4",
+                "url": "https://api.github.com/repos/irazasyed/telegram-bot-sdk/zipball/c72ef585556578105c4d5cc56324575ef3677fd2",
+                "reference": "c72ef585556578105c4d5cc56324575ef3677fd2",
                 "shasum": ""
             },
             "require": {
                 "ext-json": "*",
                 "guzzlehttp/guzzle": "^7.5.1",
                 "guzzlehttp/psr7": "^2.5",
-                "illuminate/support": "9 - 10",
+                "illuminate/support": "9 - 11",
                 "league/event": "^2.2 || ^3.0",
                 "php": ">=8.0",
-                "psr/container": "^2.0",
+                "psr/container": "^1.1 || ^2.0",
                 "psr/event-dispatcher": "^1.0"
             },
             "require-dev": {
@@ -1080,7 +1080,7 @@
                 "php-parallel-lint/php-parallel-lint": "^1.3",
                 "phpspec/prophecy": "^1.17",
                 "phpspec/prophecy-phpunit": "^2.0",
-                "rector/rector": "^0.16.0"
+                "rector/rector": "^0.16.0 || ^0.17.0 || ^0.18.0 || ^0.19.0 || ^1.0.0"
             },
             "suggest": {
                 "illuminate/container": "Hold dependencies to be injected in commands constructors",
@@ -1129,9 +1129,9 @@
             ],
             "support": {
                 "issues": "https://github.com/irazasyed/telegram-bot-sdk/issues",
-                "source": "https://github.com/irazasyed/telegram-bot-sdk/tree/v3.13.0"
+                "source": "https://github.com/irazasyed/telegram-bot-sdk/tree/v3.14.0"
             },
-            "time": "2023-05-28T19:57:36+00:00"
+            "time": "2024-03-11T03:11:26+00:00"
         },
         {
             "name": "laravel/framework",
